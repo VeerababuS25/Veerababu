@@ -1,4 +1,4 @@
-Veerababu Sankarapu | SOC Analyst & Threat Engineer
+Veerababu Sankarapu | Information SecurityAnalyst & Threat Engineer
 Driving Proactive Security Measures and Cutting MTTR by 30%
 
 Hello! I'm Veerababu Sankarapu, a dedicated cybersecurity professional with over 4 years of experience and a Master's in Cybersecurity. My passion lies in building resilient security postures and transforming complex threat data into clear, actionable intelligence. I'm adept at bridging the gap between security and development, leveraging my background to implement effective DevSecOps practices.
